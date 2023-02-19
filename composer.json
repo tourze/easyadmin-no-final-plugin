@@ -1,5 +1,5 @@
 {
-  "name": "easycorp/easyadmin-no-final-plugin",
+  "name": "tourze/easyadmin-no-final-plugin",
   "type": "composer-plugin",
   "description": "It removes the 'final' PHP keyword from all EasyAdmin classes so you can extend those classes in your projects.",
   "license": "MIT",
